@@ -30,6 +30,3 @@ Upload your exported WhatsApp chat .txt file and explore:
 -helper.py – Analysis helper functions
 -preprocessor.py – Cleans and structures raw chat data
 -hindi_english_hinglish_stop_words.txt – Stop words file
-
-✍️ Author
--Tanu Sharma
